@@ -14,7 +14,8 @@
     i18n: company_a_job
   icon: fa-plus-square
   present: true
-name:
+  
+- name:
     detail: University Kasdi Merbah (Algeria) 
     i18n: company_b
   desc:
@@ -42,7 +43,7 @@ name:
     i18n: company_b_job
   icon: fa-plus-square
 
-name:
+- name:
     detail: BG GROUP
     i18n: company_b
   desc:
