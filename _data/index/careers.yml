@@ -16,8 +16,12 @@
   present: true
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   
 - name:
+=======
+name:
+>>>>>>> parent of d6d2492... Update careers.yml
     detail: University Kasdi Merbah (Algeria) 
     i18n: company_b
   desc:
@@ -45,7 +49,7 @@
     i18n: company_b_job
   icon: fa-plus-square
 
-- name:
+name:
     detail: BG GROUP
 =======
 
