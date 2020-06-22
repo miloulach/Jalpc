@@ -15,6 +15,7 @@
   icon: fa-plus-square
   present: true
 <<<<<<< HEAD
+<<<<<<< HEAD
   
 - name:
     detail: University Kasdi Merbah (Algeria) 
@@ -46,6 +47,11 @@
 
 - name:
     detail: BG GROUP
+=======
+
+- name:
+    detail: Company B
+>>>>>>> parent of 4c4d6a9... major changes
 =======
 
 - name:
