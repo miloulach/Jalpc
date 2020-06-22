@@ -19,7 +19,8 @@ author:  # change following line to your infomation.
   linkedin_id: miloulach # Leave blank if you don't have now
   facebook_username: miloulach  # Leave blank if you don't have now
   twitter_username: miloulachh  # Leave blank if you don't have now
-  resume_google_scholar_url:   "https://scholar.google.com/citations?user=gZ7PhAUAAAAJ&hl=en&oi=sra"
+  email:   # Leave blank if you don't have now
+  cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
@@ -27,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Interested in the big data application in economics and econometrics  # Describe yourself.
+  desc: Introduce myself will be here.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

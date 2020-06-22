@@ -1,19 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Higher School of Economics (Russia)
+    detail: Company A
     i18n: company_a
   desc:
-    detail: Master degree in applied statistics with network analysis
+    detail: I worked at Company A ...
     i18n: company_a_desc
   date:
-    detail: June 2020
+    detail: Apr. 2016
     i18n: company_a_date
   job:
-    detail: Student
+    detail: CTO
     i18n: company_a_job
   icon: fa-plus-square
   present: true
+<<<<<<< HEAD
   
 - name:
     detail: University Kasdi Merbah (Algeria) 
@@ -45,14 +46,19 @@
 
 - name:
     detail: BG GROUP
+=======
+
+- name:
+    detail: Company B
+>>>>>>> parent of 4c4d6a9... major changes
     i18n: company_b
   desc:
-    detail: Work and travel permit advicor
+    detail: I worked at Company B ...
     i18n: company_b_desc
   date:
-    detail: Jun. 2012
+    detail: Jun. 2015
     i18n: company_b_date
   job:
-    detail: Admin officer
+    detail: Full Stack Developer
     i18n: company_b_job
   icon: fa-plus-square
