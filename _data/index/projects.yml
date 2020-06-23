@@ -3,8 +3,8 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: DZ ANALYSIS
   i18n: dzanalysis
-  url: dzanalysis.com
-  img: /static/assets/img/landing/dz_analysis.png
+  url: www.dzanalysis.com
+  img: /static/assets/img/landing/DZ.jpg
   desc: We focus on the application of big data analysis at the Algerian economy level.
 
 - name: Maps
