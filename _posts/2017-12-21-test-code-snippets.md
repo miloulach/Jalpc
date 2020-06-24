@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "code snippet test"
-date:   2017-12-21
+title:  "My blog on HSE website"
+date:   2020-02-28
 desc: "Quick test on writing code snippets in a blog post"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
 categories: [HTML]
 tags: [Jalpc,Jekyll]
 icon: icon-html
+url: https://www.hse.ru/en/news/edu/345237556.html
 ---
 
 This is a raw snippet:
