@@ -2,7 +2,7 @@
 
 # Website settings
 title: ML
-description: Miloud's blog,use data science in economics.
+description: Miloud Lacheheb's blog, data science and economics.
 keywords: Miloud,Lacheheb,blog,data science,economics
 baseurl:  /Miloud_Lacheheb # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url:  https://miloulach.github.io/Miloud_Lacheheb/  # url should be 'http://<github_username>.github.io/homepage' as before
