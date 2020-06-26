@@ -2,28 +2,24 @@
 
 # Website settings
 title: ML
-<<<<<<< HEAD
 description: Jack's blog,use Jekyll and github pages.
 keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
 baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://miloulach.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
-=======
 description: Miloud Lacheheb's blog, data science and economics.
 keywords: Miloud,Lacheheb,blog,data science,economics
 baseurl:  /Miloud_Lacheheb # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url:  https://miloulach.github.io/Miloud_Lacheheb/  # url should be 'http://<github_username>.github.io/homepage' as before
->>>>>>> 316e64961ac971e84aed9b5f3015960163fa69a4
 # url: http://127.0.0.1:4000
 img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
-<<<<<<< HEAD
 author: Miloud Lacheheb # change following line to your infomation.
   name: GitHub  # Be used at blog posts' author.
-=======
 author:  # change following line to your infomation.
   name: ML  # Be used at blog posts' author.
->>>>>>> 316e64961ac971e84aed9b5f3015960163fa69a4
+author:  # change following line to your infomation.
+  name: ML  # Be used at blog posts' author.
   first_name: Miloud  # Be used at index page about me section.
   last_name: Lacheheb  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
