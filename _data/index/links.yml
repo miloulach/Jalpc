@@ -1,18 +1,19 @@
 # links section data
-- last_name: Name 1
-  first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+- last_name: ORCID
+  #first_name:
+  desc: ORCID profile
+  website: https://orcid.org/0000-0002-6672-1754
+  #email: ceo@google.com
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+- last_name: Me on HSE website
+  #first_name: 
+  desc: describe living and studying in Moscow
+  website: https://www.hse.ru/en/news/edu/345237556.html
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+  - last_name: Google Scholar
+  #first_name: 
+  desc: Publications
+  website: https://scholar.google.com/citations?user=gZ7PhAUAAAAJ&hl=en&oi=sra
+  #email: coo@google.com
+
+

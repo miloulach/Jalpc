@@ -1,30 +1,58 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Higher School of Economics (Russia)
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Msc in Applied Statistics with Network Analysis
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: June. 2020
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Education
     i18n: company_a_job
   icon: fa-plus-square
   present: true
-
+  
 - name:
-    detail: Company B
+    detail: University Kasdi Merbah (Algeria) 
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: English tutor at the faculty of economics and management
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: June 2018
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Part-time lecturer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: University Putra Malaysia
+    i18n: company_b
+  desc:
+    detail: Master's degree in economics
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2014
+    i18n: company_b_date
+  job:
+    detail: Education
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: BG GROUP
+    i18n: company_b
+  desc:
+    detail: Incharge of entries and work permit
+    i18n: company_b_desc
+  date:
+    detail: Dec. 2011
+    i18n: company_b_date
+  job:
+    detail: Admin officer
     i18n: company_b_job
   icon: fa-plus-square
