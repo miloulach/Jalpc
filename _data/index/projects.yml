@@ -7,11 +7,15 @@
   url: https://dzanalysis.com
 =======
   i18n: dzanalysis
+<<<<<<< HEAD
   website: www.dzanalysis.com
 <<<<<<< HEAD
 >>>>>>> parent of 5cfc863... upd
 =======
 >>>>>>> parent of 5cfc863... upd
+=======
+  website: dzanalysis.com
+>>>>>>> parent of 002cffc... profile
   img: /static/assets/img/landing/DZ.jpg
   desc: We focus on the application of big data analysis at the Algerian economy level.
 

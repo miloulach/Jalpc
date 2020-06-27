@@ -4,7 +4,11 @@ label: Ability
 id : cs
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 aspects: R, Python, SAS, LaTex, Machine Learning, Stata, Matlab, QGIS, Bayesian Analysis, Econometrics
+=======
+aspects: R, Python, SAS, LaTex, Machine Learing, Stata, Matlab, QGIS, Bayesian Analysis, Econometrics
+>>>>>>> parent of 002cffc... profile
 percentage: 80, 75, 75, 80, 80, 70, 65, 80, 70, 75
 =======
 aspects: R, Python, SAS, LaTex, Machine Learing, Stata, Matlab

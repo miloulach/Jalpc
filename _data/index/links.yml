@@ -1,10 +1,11 @@
 # links section data
-- last_name: ORCID
-  #first_name:
-  desc: ORCID profile
-  website: https://orcid.org/0000-0002-6672-1754
-  #email: ceo@google.com
+- last_name: Name 1
+  first_name:
+  desc: CEO
+  website: https://www.google.com
+  email: ceo@google.com
 
+<<<<<<< HEAD
 - last_name: Me on HSE website
   #first_name: 
   desc: describe living and studying in Moscow
@@ -17,3 +18,16 @@
   #email: coo@google.com
 
 
+=======
+- last_name: Donate
+  first_name: Jalpc
+  desc: Support Jalpc
+  website: http://www.jarrekk.com/donate/
+  email: me@jarrekk.com
+
+- last_name: LN
+  first_name: FN
+  desc: COO
+  website: https://github.com
+  email: coo@google.com
+>>>>>>> parent of 002cffc... profile
