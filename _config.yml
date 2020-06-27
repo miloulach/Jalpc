@@ -25,9 +25,10 @@ author:  # change following line to your infomation.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: miloulach  # Leave blank if you don't have now
   linkedin_id: miloud-lacheheb # Leave blank if you don't have now
+  facebook_username: miloulach  # Leave blank if you don't have now
   twitter_username: miloulach  # Leave blank if you don't have now
-     # Leave blank if you don't have now
-     # An online CV can be printed as PDF, leave blank if you don't have now
+  email:   # Leave blank if you don't have now
+  cv:   # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
@@ -35,8 +36,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc:  I am an economist triggered by the application of big data in economics and econometrics.
-         I enjoy keeping myself up to date and playing using visualization and analysis.  # Describe yourself.
+  desc:  I am an economist triggered by the use of big data in economics and econometrics.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
