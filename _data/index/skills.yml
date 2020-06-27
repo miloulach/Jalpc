@@ -5,6 +5,7 @@ id : cs
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 aspects: R, Python, SAS, LaTex, Machine Learning, Stata, Matlab, QGIS, Bayesian Analysis, Econometrics
 =======
 aspects: R, Python, SAS, LaTex, Machine Learing, Stata, Matlab, QGIS, Bayesian Analysis, Econometrics
@@ -18,3 +19,7 @@ percentage: 75, 60, 65, 60, 70, 50, 50
 aspects: R, Python, SAS, LaTex, Machine Learing, Stata, Matlab
 percentage: 75, 60, 65, 60, 70, 50, 50
 >>>>>>> parent of 5cfc863... upd
+=======
+aspects: GitHub, Motivation, HTML5, ReactJS, Machine Learing, Python, Sleeping
+percentage: 100, 35, 65, 80, 70, 90, 50
+>>>>>>> parent of fa70262... Update _config.yml
