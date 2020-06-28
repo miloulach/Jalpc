@@ -7,7 +7,7 @@ keywords: Miloud,Lacheheb,blog,big data,economics
 baseurl:  /Miloud_Lacheheb # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://miloulach.github.io/Miloud_Lacheheb/  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+img_path: /Miloud_Lacheheb/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
@@ -27,11 +27,12 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: I am an economist fascinated by the application of big data methods in economics. 
+        I enjoy using machine learning, Bayesian statistics and econometrics in economics.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
+  name: ML
 
 # analytics
 ## google analytics

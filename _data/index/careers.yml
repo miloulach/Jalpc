@@ -47,12 +47,12 @@
     detail: British Gas (BG)
     i18n: company_b
   desc:
-    detail: Admin Officer
+    detail: Work permit and entry permission for expats
     i18n: company_b_desc
   date:
     detail: Dec. 2011
     i18n: company_b_date
   job:
-    detail: Work permit and entry permission
+    detail: Admin Officer
     i18n: company_b_job
   icon: fa-plus-square

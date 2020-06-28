@@ -1,9 +1,8 @@
 # links section data
-- last_name: Name 1
+- last_name: ORCID
   first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  desc: ORCID Connecting Research and Researchers
+  website: https://orcid.org/0000-0002-6672-1754
 
 - last_name: Me on HSE website
   #first_name: 
