@@ -10,7 +10,7 @@
     detail: June. 2020
     i18n: company_a_date
   job:
-    detail: Student
+    detail: Education
     i18n: company_a_job
   icon: fa-plus-square
   present: true
@@ -39,7 +39,7 @@
     detail: Jun. 2014
     i18n: company_b_date
   job:
-    detail: Student
+    detail: Education
     i18n: company_b_job
   icon: fa-plus-square
 
