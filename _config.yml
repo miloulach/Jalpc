@@ -1,32 +1,15 @@
-# Welcome to Jekyll!
+# Welcome to ML!
 
 # Website settings
-<<<<<<< HEAD
 title: ML
-description: Jack's blog,use Jekyll and github pages.
-keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
-baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://miloulach.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
-description: Miloud Lacheheb's blog, data science and economics.
-keywords: Miloud,Lacheheb,blog,data science,economics
+description: Miloud Lacheheb's blog, Big data and economics.
+keywords: Miloud,Lacheheb,blog,big data,economics
 baseurl:  /Miloud_Lacheheb # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url:  https://miloulach.github.io/Miloud_Lacheheb/  # url should be 'http://<github_username>.github.io/homepage' as before
-=======
-title: Jalpc
-description: Jack's blog,use Jekyll and github pages.
-keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
-baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://jarrekk.github.io/Jalpc  # url should be 'http://<github_username>.github.io/homepage' as before
->>>>>>> parent of fa70262... Update _config.yml
+url: https://miloulach.github.io/Miloud_Lacheheb/  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
-<<<<<<< HEAD
-author: Miloud Lacheheb # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
-author:  # change following line to your infomation.
-  name: ML  # Be used at blog posts' author.
 author:  # change following line to your infomation.
   name: ML  # Be used at blog posts' author.
   first_name: Miloud  # Be used at index page about me section.
@@ -34,23 +17,9 @@ author:  # change following line to your infomation.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: miloulach  # Leave blank if you don't have now
   linkedin_id: miloud-lacheheb # Leave blank if you don't have now
-  facebook_username: miloulach  # Leave blank if you don't have now
   twitter_username: miloulach  # Leave blank if you don't have now
   email:   # Leave blank if you don't have now
   cv:   # An online CV can be printed as PDF, leave blank if you don't have now
-=======
-author:  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
-  first_name: Hub  # Be used at index page about me section.
-  last_name: Git  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username: jarrekk  # Leave blank if you don't have now
-  linkedin_id: jarrekk # Leave blank if you don't have now
-  facebook_username: jiakunnj  # Leave blank if you don't have now
-  twitter_username: jiakun614  # Leave blank if you don't have now
-  email: me@jarrekk.com  # Leave blank if you don't have now
-  cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
->>>>>>> parent of fa70262... Update _config.yml
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
@@ -58,11 +27,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-<<<<<<< HEAD
-  desc:  I am an economist triggered by the use of big data in economics and econometrics.  # Describe yourself.
-=======
   desc: Introduce myself will be here.  # Describe yourself.
->>>>>>> parent of fa70262... Update _config.yml
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
@@ -101,4 +66,3 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
