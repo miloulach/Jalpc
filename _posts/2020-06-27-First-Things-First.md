@@ -8,7 +8,8 @@ categories: [HTML]
 tags: [Economics,Machine Learning]
 icon: icon-html
 ---
-In this blog section I have included examples of different machine learning application in economics using various statistical software, including R, Python and Matlab. 
+In this blog section I have included examples of different machine learning application in economics using various statistical software, including R, Python and Matlab.
+ 
 I believe the delivered examples and codes are not solely mine and still far from being perfect. So, please do not be hard on me, but let me know how the work can be improved. 
 
 This is a R snippet:
