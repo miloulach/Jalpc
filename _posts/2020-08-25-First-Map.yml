@@ -1,0 +1,5 @@
+- name: Maps
+  i18n: maps
+  repo: https://miloulach.shinyapps.io/Blog_1/
+  img: /static/assets/img/landing/view.png
+  desc: Spatial analysis and mapping at regional level in Algeria.
