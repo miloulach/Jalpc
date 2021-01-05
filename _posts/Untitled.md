@@ -1,3 +1,14 @@
+
+---
+layout: post
+title:  "Test"
+date:   2020-06-27
+desc: "What you should expect from my blog"
+keywords: "Miloud,Lacheheb,R,Economics"
+categories: [HTML]
+tags: [Economics,Machine Learning]
+icon: icon-html
+---
 Test
 ================
 Miloud Lacheheb
