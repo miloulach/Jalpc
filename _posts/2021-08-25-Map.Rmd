@@ -2,7 +2,9 @@
 title: "Test"
 author: "Miloud Lacheheb"
 date: "1/5/2021"
-output: github_document
+output: 
+  md_document:
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
