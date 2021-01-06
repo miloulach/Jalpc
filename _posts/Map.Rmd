@@ -2,9 +2,8 @@
 title: "Test"
 author: "Miloud Lacheheb"
 date: "1/5/2021"
-output: 
-  md_document:
-    variant: gfm
+output: html_document
+ 
 ---
 
 ```{r setup, include=FALSE}
