@@ -1,5 +1,10 @@
 # Welcome to ML!
-
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+      
 # Website settings
 title: ML
 description: Miloud Lacheheb's blog, Big data and economics.
@@ -68,8 +73,3 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-defaults:
-  - scope:
-      path: "assets/img"
-    values:
-      image: true
