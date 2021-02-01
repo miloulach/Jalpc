@@ -5,6 +5,11 @@
   {% if page.desc %}
     <meta content="{{ page.desc }}" name="description">
   {% endif %}
+  {% if page.leafletmap %}	
+	<!-- Require Leaflet -->
+	{% include leaflet.html %}	
+	<!-- End Leaflet -->
+	{% endif %}
   {% if page.keywords %}
     <meta name="keywords" content="{{ page.keywords }}">
   {% endif %}
