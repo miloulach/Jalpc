@@ -12,6 +12,8 @@ output: github_document
 ```{r include = FALSE}
 library(leaflet)
 library(dplyr)
+library(rmarkdown)
+library(htmlwidgets)
 ```
 
 Use the leaflet map below to explore the actual Maunga Whau volcano in Auckland, NZ. 

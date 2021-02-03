@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Algeria Spatial Overview"
+author: "Miloud Lacheheb"
+date: "2/3/2021"
+linktormd: true
+leafletmap: true
+always_allow_html: yes
+output: github_document
+---
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+library(rmarkdown)
+library(htmlwidgets)
+library(leaflet)
+library(sp)
+library(rgdal)
+library(dplyr)
+alg<-readRDS("~/Desktop/Paper/gadm36_DZA_1_sp.rds")
+```
+
+
+
+```{r echo=FALSE, warning=FALSE}
+leaflet(alg) %>%
+  addPolygons() %>%
+  addTiles()
+```
