@@ -24,5 +24,5 @@ The country is administratively divided into 48 provinces (wilaya).
 
 
 
- <img src="/Miloud_Lacheheb/static/assets/img/blog/AlgMap.png">
+<img src="/Miloud_Lacheheb/static/assets/img/blog/pressure-1.png" width="75%">
 
