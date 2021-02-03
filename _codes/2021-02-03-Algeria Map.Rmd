@@ -19,13 +19,17 @@ library(leaflet)
 library(sp)
 library(rgdal)
 library(dplyr)
+library(sf)
 alg<-readRDS("~/Desktop/Paper/gadm36_DZA_1_sp.rds")
+alg1<-st_as_sf(alg)
+rm(alg)
 ```
 
 
 
 ```{r echo=FALSE, warning=FALSE}
-leaflet(alg) %>%
+leaflet(alg1) %>%
   addPolygons() %>%
   addTiles()
+rm(alg1)
 ```
