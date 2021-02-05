@@ -5,7 +5,9 @@ date:   2021-02-03
 linktormd: true
 leafletmap: true
 always_allow_html: yes
-output: github_document
+output:
+  html_document:
+    keep_md: true
 ---
 
 In this piece of work, we tend to describe and visualize Algeria. We mainly apply spatial visualization including interactive features.

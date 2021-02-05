@@ -6,9 +6,7 @@ date: "2/3/2021"
 linktormd: true
 leafletmap: true
 always_allow_html: yes
-output:
-  html_document:
-    keep_md: true
+output: github_document 
 self_contained: false
 lib_dir: libs
 cache:
@@ -29,14 +27,14 @@ library(dplyr)
 library(sf)
 alg<-readRDS("~/Desktop/Paper/gadm36_DZA_1_sp.rds")
 alg1<-st_as_sf(alg)
-rm(alg)
+#rm(alg)
 ```
 
 
 
 ```{r echo=FALSE, warning=FALSE}
-leaflet(alg1) %>%
+dd<-leaflet(alg1) %>%
   addPolygons() %>%
   addTiles()
-rm(alg1)
+#rm(alg1)
 ```
