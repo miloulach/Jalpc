@@ -6,9 +6,7 @@ date: "2/3/2021"
 linktormd: true
 leafletmap: true
 always_allow_html: yes
-output:
-  html_document:
-    keep_md: true
+output: github_document
 self_contained: false
 lib_dir: libs
 cache:
