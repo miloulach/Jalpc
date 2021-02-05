@@ -22,7 +22,7 @@ Algeria is considered the largest country in Africa with a total surface of 2.38
 
 The country is administratively divided into 48 provinces (wilaya). 
 
-<iframe src="/Desktop/Blog/Algeria_Map/predoc_map.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="predoc_map.html" height="600px" width="100%" style="border:none;"></iframe>
 
 <img src="/Miloud_Lacheheb/static/assets/img/blog/AlgMap.png" width="75%">
 
