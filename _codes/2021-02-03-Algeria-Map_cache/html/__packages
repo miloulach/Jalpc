@@ -1,0 +1,8 @@
+base
+rmarkdown
+htmlwidgets
+leaflet
+sp
+rgdal
+dplyr
+sf

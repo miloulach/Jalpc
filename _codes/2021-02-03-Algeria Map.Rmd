@@ -6,15 +6,20 @@ date: "2/3/2021"
 linktormd: true
 leafletmap: true
 always_allow_html: yes
-output: github_document
+output:
+  html_document:
+    keep_md: true
 self_contained: false
 lib_dir: libs
+cache:
+  packages: yes
 ---
 
-```{r message=FALSE, warning=FALSE, include=FALSE}
+```{r message=FALSE, warning=FALSE, include=FALSE, screenshot.opts = list(delay = 5)}
 knitr::opts_chunk$set(echo = TRUE)
 knitr::opts_knit$set(global.par = TRUE)
 knitr::opts_chunk$set(dev="svg")
+screenshot.opts = list(delay = 5)
 library(rmarkdown)
 library(htmlwidgets)
 library(leaflet)

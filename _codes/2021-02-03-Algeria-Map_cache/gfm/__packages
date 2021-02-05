@@ -1,0 +1,14 @@
+base
+methods
+datasets
+utils
+grDevices
+graphics
+stats
+rmarkdown
+htmlwidgets
+leaflet
+sp
+rgdal
+dplyr
+sf
