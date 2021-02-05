@@ -6,7 +6,7 @@ linktormd: true
 leafletmap: true
 always_allow_html: yes
 output:
-  html_document:
+  github_document:
     keep_md: true
 ---
 
