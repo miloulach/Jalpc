@@ -1,30 +1,16 @@
----
-layout: post
-title:  "Algeria Spatial Overview"
-date:   2021-02-03
-linktormd: true
-leafletmap: true
-always_allow_html: yes
-output: github_document
----
+Algeria Spatial Overview
+================
+Miloud Lacheheb
+2/3/2021
 
-In this piece of work, we tend to describe and visualize Algeria. We mainly apply spatial visualization including interactive features.
-
-Algeria is considered the largest country in Africa with a total surface of 2.382 million km². The country benefits from numerous natural endowments range from oil and gas to the agriculture land. Besides natural resources, Algeria has a population exceeds 40 million people where youth covers 45% of the population. On the other hand, the desert in Algeria is considered one of the hottest in the world and covers significantly a large area of the country. 
+    ## PhantomJS not found. You can install it with webshot::install_phantomjs(). If it is installed, please make sure the phantomjs executable can be found via the PATH variable.
 
 <!--html_preserve-->
 
-<div id="htmlwidget-cdfa151eedec359e95b4"
+<div id="htmlwidget-3a9075336e256b4faac9"
 class="widgetframe html-widget" style="width:100%;height:480px;">
+
 </div>
-<script type="application/json" data-for="htmlwidget-cdfa151eedec359e95b4">{"x":{"url":"2021-02-03-Algeria-Map_files/figure-gfm//widgets/widget_unnamed-chunk-2.html","options":{"xdomain":"*","allowfullscreen":false,"lazyload":false}},"evals":[],"jsHooks":[]}</script>
 
+<script type="application/json" data-for="htmlwidget-3a9075336e256b4faac9">{"x":{"url":"2021-02-03-Algeria-Map_files/figure-gfm//widgets/widget_unnamed-chunk-2.html","options":{"xdomain":"*","allowfullscreen":false,"lazyload":false}},"evals":[],"jsHooks":[]}</script>
 <!--/html_preserve-->
-
-
-The country is administratively divided into 48 provinces (wilaya). 
-
-<iframe src="predoc_map.html" height="600px" width="100%" style="border:none;"></iframe>
-
-<img src="/Miloud_Lacheheb/static/assets/img/blog/AlgMap.png" width="75%">
-
