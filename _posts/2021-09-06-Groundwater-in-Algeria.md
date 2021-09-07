@@ -17,9 +17,9 @@ Groundwater is an essential source of freshwater in Algeria for, both, drinking 
 <img src="/Miloud_Lacheheb/static/assets/img/wtaer1/gwstorage.png" width="75%">
 
 
-
+<br>
 Groundwater storage is mainly located on the south-center of the country. Mainly, El-Oued, Ouargla, Ghardaia, Illizi, Tamanghasset and Adrar. These wilaya benefits from more than 50-meter depth of groundwater storage.
-
+<br>
 <img src="/Miloud_Lacheheb/static/assets/img/wtaer1/depthgw.png" width="75%">
 
 
