@@ -12,14 +12,11 @@ icon: icon-html
 In this work we tend to describe and map groundwater endowment in Algeria. Spatial visualization is presented to categorize the groundwater resource as per its storage, depth and productivity. Furthermore, waterways types and length is presented,as well as monthly precipitation in the country. Finally, challenges related to groundwater resource in Algeria such as water waste and water overexploitation is disscused.
 
 Groundwater is an essential source of freshwater in Algeria for, both, drinking water and irrigation. The actual estimate of groundwater storage reaches up to 91,900 km3. Algeria holds the second largest groundwater storage in Africa after Libya[^1]. 
-<br>
 
 <img src="/Miloud_Lacheheb/static/assets/img/water1/gwstorage.png" width="75%">
 
 
-<br>
 Groundwater storage is mainly located on the south-center of the country. Mainly, El-Oued, Ouargla, Ghardaia, Illizi, Tamanghasset and Adrar. These wilaya benefits from more than 50-meter depth of groundwater storage.
-<br>
 <img src="/Miloud_Lacheheb/static/assets/img/water1/depthgw.png" width="75%">
 
 
