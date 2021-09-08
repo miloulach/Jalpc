@@ -35,10 +35,12 @@ Additional water source in the country is streams, rivers and lakes. Surface wat
 Waterways, on the other hand, is considered an important source of freshwater in the country. Waterways varies from canals, rivers and streams. Rivers is the most dominant waterway in the country and Chief river is the longest river in the country with 700 KM length. However, rivers in Algeria suffer from over exploitation, pollution and low rainfalls rates especially in the Sahara.  
 
 <img src="/Miloud_Lacheheb/static/assets/img/water1/Waterway.png" width="75%">
+![test image size](/Miloud_Lacheheb/static/assets/img/water1/Waterway.png){:class="img-responsive"}
 
 Rivers and streams in the northeast part of Sahara are naturally under the region of Chatt Melghig. Main rivers in these area (Ouargla and Ghardaia) are charetersized by low water storage, dry, and polluted. For instance, Oued Nsa and Oued Metlili witness floods during winter session but rapidly dry. 
 
 <img src="/Miloud_Lacheheb/static/assets/img/water1/Waterway1.png" width="75%">
+![test image size](/Miloud_Lacheheb/static/assets/img/water1/Waterway1.png){:class="img-responsive"}
 
 
 
