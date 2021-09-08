@@ -36,6 +36,7 @@ Rivers and streams in the northeast part of Sahara are naturally under the regio
 
 ![test image size](/Miloud_Lacheheb/static/assets/img/water1/Waterway1.png){:class="img-responsive"}
 
+![test image size](/Miloud_Lacheheb/static/assets/img/water1/Waterway1.svg){:class="img-responsive"}
 
 
 
