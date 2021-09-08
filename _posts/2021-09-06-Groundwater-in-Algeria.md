@@ -13,7 +13,7 @@ In this work we tend to describe and map groundwater endowment in Algeria. Spati
 
 Groundwater is an essential source of freshwater in Algeria for, both, drinking water and irrigation. The actual estimate of groundwater storage reaches up to 91,900 km3. Algeria holds the second largest groundwater storage in Africa after Libya[^1]. 
 
-<img src="/Miloud_Lacheheb/static/assets/img/water1/gwstorage.png" width="75%">
+<img src="/Miloud_Lacheheb/static/assets/img/water1/gwstorage.png" alt="alt text" width="whatever" height="whatever">>
 
 
 Groundwater storage is mainly located on the south-center of the country. Mainly, El-Oued, Ouargla, Ghardaia, Illizi, Tamanghasset and Adrar. These wilaya benefits from more than 50-meter depth of groundwater storage.
