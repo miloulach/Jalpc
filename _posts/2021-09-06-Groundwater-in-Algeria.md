@@ -13,15 +13,15 @@ In this work we tend to describe and map groundwater endowment in Algeria. Spati
 
 Groundwater is an essential source of freshwater in Algeria for, both, drinking water and irrigation. The actual estimate of groundwater storage reaches up to 91,900 km3. Algeria holds the second largest groundwater storage in Africa after Libya[^1]. 
 
-![test image size](/Miloud_Lacheheb/static/assets/img/water1/gwstorage.png){:class="img-responsive"}
+![test image size](/Miloud_Lacheheb/static/assets/img/water1/gwstorage.svg){:class="img-responsive"}
 
 Groundwater storage is mainly located on the south-center of the country. Mainly, El-Oued, Ouargla, Ghardaia, Illizi, Tamanghasset and Adrar. These wilaya benefits from more than 50-meter depth of groundwater storage.
 
-![test image size](/Miloud_Lacheheb/static/assets/img/water1/depthgw.png){:class="img-responsive"}
+![test image size](/Miloud_Lacheheb/static/assets/img/water1/depthgw.svg){:class="img-responsive"}
 
 Depth to groundwater in Algeria varies from region to another. However, regions with high groundwater storage known for larger distance of groundwater to surface. The figure above shows that (yellow) wilaya such as El-Oued, Ouargla, Ghardaia, Illizi, Tamanghasset and Adrar groundwater is more than 250 meters below ground level. The depth to groundwater makes it difficult for individuals and small business to exploit water resource. For instance, for irrigation in agriculture sector, water exploitation does not exceed 60-70 m below ground level. Thus, groundwater resource remains out-of-hand for excessive water exploitation. 
 
-![test image size](/Miloud_Lacheheb/static/assets/img/water1/gwprod.png){:class="img-responsive"}
+![test image size](/Miloud_Lacheheb/static/assets/img/water1/gwprod.svg){:class="img-responsive"}
 
 One important aspect of working with groundwater is productivity. High water productivity is observed on the south center of country which exceed 20 liters per second. This demonstrates the very high productivity of groundwater storage, especially in Ouargla, Ghardaia and El-Oued. Although productivity decreases in the north part of the country, productivity remains above 5 liters per second.
 
