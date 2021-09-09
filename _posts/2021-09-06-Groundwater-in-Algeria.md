@@ -30,11 +30,10 @@ One important aspect of working with groundwater is productivity. High water pro
 Additional water source in the country is streams, rivers and lakes. Surface water is more likely to be exploited for household use, irrigation, and industrial use. Rapid population increase, land expansion, increase in industrial activities have led deterioration of water bodies. This has decreased per capita water availability to below 300 m3 per year[^2]. Algeria has about 50 water sites designed and operated as wetlands,  covering a total surface area of 30,000 km[^3]. 
 Waterways, on the other hand, is considered an important source of freshwater in the country. Waterways varies from canals, rivers and streams. Rivers is the most dominant waterway in the country and Chief river is the longest river in the country with 700 KM length. However, rivers in Algeria suffer from over exploitation, pollution and low rainfalls rates especially in the Sahara.  
 
-![test image size](/Miloud_Lacheheb/static/assets/img/water1/Waterway.png){:class="img-responsive"}
+![test image size](/Miloud_Lacheheb/static/assets/img/water1/Waterway.svg){:class="img-responsive"}
 
 Rivers and streams in the northeast part of Sahara are naturally under the region of Chatt Melghig. Main rivers in these area (Ouargla and Ghardaia) are charetersized by low water storage, dry, and polluted. For instance, Oued Nsa and Oued Metlili witness floods during winter session but rapidly dry. 
 
-![test image size](/Miloud_Lacheheb/static/assets/img/water1/Waterway1.png){:class="img-responsive"}
 
 ![test image size](/Miloud_Lacheheb/static/assets/img/water1/Waterway1.svg){:class="img-responsive"}
 
