@@ -1,6 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Victoria University of Wellington (New Zealand)
+    i18n: company_a
+  desc:
+    detail: PhD in Economics
+    i18n: company_a_desc
+  date:
+    detail: December. 2024
+    i18n: company_a_date
+  job:
+    detail: Education
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+  
+  - name:
     detail: Higher School of Economics HSE (Russia)
     i18n: company_a
   desc:
