@@ -30,7 +30,7 @@
   icon: fa-plus-square
   present: true
   
-  - name:
+- name:
     detail: Higher School of Economics HSE (Russia)
     i18n: company_a
   desc:
