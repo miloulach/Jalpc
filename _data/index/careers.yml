@@ -10,7 +10,22 @@
     detail: December. 2024
     i18n: company_a_date
   job:
-    detail: Education
+    detail: Essays on climate change and extreme weather events
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+  - name:
+    detail: Asian Development Bank
+    i18n: company_a
+  desc:
+    detail: Consultant
+    i18n: company_a_desc
+  date:
+    detail: Since Spetember. 2023
+    i18n: company_a_date
+  job:
+    detail: Extreme weather events and economic impacts
     i18n: company_a_job
   icon: fa-plus-square
   present: true
@@ -28,7 +43,6 @@
     detail: Education
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
   
 - name:
     detail: University Kasdi Merbah (Algeria) 
@@ -58,16 +72,3 @@
     i18n: company_b_job
   icon: fa-plus-square
 
-- name:
-    detail: British Gas (BG)
-    i18n: company_b
-  desc:
-    detail: Work permit and entry permission for expats
-    i18n: company_b_desc
-  date:
-    detail: Dec. 2011
-    i18n: company_b_date
-  job:
-    detail: Admin Officer
-    i18n: company_b_job
-  icon: fa-plus-square

@@ -32,8 +32,9 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I am an economist fascinated by the application of big data methods in economics. 
-        I enjoy using machine learning, Bayesian statistics and econometrics in economics.  # Describe yourself.
+  desc: Experienced economist and data analyst specializing in climate change impact and extreme weather event modeling. 
+  Currently a PhD candidate in Economics at Victoria University of Wellington. Author of peer-reviewed publications in reputable journals such as the journal of Science of The Total Environment. 
+  Skilled in advanced statistical analysis, geospatial modeling, and data visualization using R, Python, and ArcGIS Pro.   # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
